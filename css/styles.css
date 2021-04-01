@@ -1,0 +1,117 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
+  border-bottom: none;
+  background-color: #66BFBF;
+}
+h1 {
+  font-size: 5.625rem;
+  margin: 80px auto 0 auto;
+  font-family: 'Lobster', cursive;
+  color: #66BFBF;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Lobster', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding: 10px;
+}
+h3 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+p {
+  line-height: 1.5;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.profile_pic {
+  border-radius: 80%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.code-img {
+  width: 25%;
+  margin: 20px 30px auto auto;
+  float: left;
+}
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin: 40px 30px 50px auto;
+}
+.hr_all {
+  padding: 10px;
+  border-style: none;
+    border-top-style: dotted;
+    border-color: #424642;
+    border-width: 10px;
+    width: 5%;
+    margin: 20px auto;
+}
+.top-container {
+background-color: #dbf6e9;
+padding: 50px 0 50px;
+}
+.middle-container {
+  background-color: #EAF6F6 ;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  border-bottom-style: none;
+  padding: 10px 20px 10px;
+}
+.intro {
+  width: 44%;
+  margin: 100px auto 100px auto;
+}
+.btn {
+	box-shadow: 0 0 0 0 #276873;
+	background-color:#599bb3;
+	border-radius:8px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	padding: 16px 31px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.footer-link {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 15px;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #EAF6F6;
+}
+.copyright{
+  font-size: 16px;
+  padding: 20px 0 0;
+  color: #EAF6F6;
+}
